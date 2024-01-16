@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="microsoft.data.sqlclient" Version="1.1.2" />
+    <PackageReference Include="microsoft.data.sqlclient" Version="2.1.7" />
     <PackageReference Include="nservicebus" Version="7.3.0" />
     <PackageReference Include="NServiceBus.Newtonsoft.Json" Version="2.2.0" />
     <PackageReference Include="NServiceBus.SqlServer" Version="6.0.0" />
